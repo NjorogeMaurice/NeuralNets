@@ -3,9 +3,9 @@ Neural Networks Exercises
 
 <hr>
 
-<b>NAME</b>: NJOROGE MAURICE MUIRURI
+<b>NAME</b>: 
 
-<b>REG NO</b>: SCT211-0005/2020
+<b>REG NO</b>:
 
 <hr>
 
