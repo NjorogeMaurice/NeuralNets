@@ -3,11 +3,6 @@ Neural Networks Exercises
 
 <hr>
 
-<b>NAME</b>: 
-
-<b>REG NO</b>:
-
-<hr>
 
 ## Installation
 
